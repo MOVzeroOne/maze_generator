@@ -1,7 +1,7 @@
 # maze_generator
 implementation of Wilson's algorithm for maze generation
-<br> wilson's algorithm generating a maze </br>
+<b> wilson's algorithm generating a maze</b> </br>
 ![](maze_generator.gif)
 
-<br> floodfill </br>
+<b> floodfill </b></br>
 ![](floodfill.gif)
